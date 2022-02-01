@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on  backend mainly 🐍
 - 🤔 I’m looking for help with job/internship
 - 💬 Ask me about  🐍 💡
-- 📫 How to reach me: [@sai_prakash_official](https://www.instagram.com/sai_prakash_official/)
+- 📫 How to reach me: [@sai_prakash_official](https://www.instagram.com/ft_sprakash/)
 - 😄 Pronounces : He/His 😃
 - ⚡ Fun fact: This feature is so cooooooool 😉
 
