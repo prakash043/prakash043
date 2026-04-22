@@ -1,14 +1,12 @@
 ### Es prakash aquí,  bienvenidas 👋
 
 
-- 🔭 I’m currently working on Open CV
-- 🌱 I’m currently studying  engineering
+- 🔭 I’m currently working on Open CV and Automation
+- 🌱 I’m currently working as Automation  engineering
 - 👯 I’m looking to collaborate on  backend mainly 🐍
-- 🤔 I’m looking for help with job/internship
 - 💬 Ask me about  🐍 💡
 - 📫 How to reach me: [@sai_prakash_official](https://www.instagram.com/ft_sprakash/)
-- 😄 Pronounces : He/His 😃
-- ⚡ Fun fact: This feature is so cooooooool 😉
+- ⚡ Fun fact: Ai can take up the jobs no more myth 😉
 
 
 
